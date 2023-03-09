@@ -3,7 +3,7 @@ The barebone structure of the form is created with basic HTML semantics and then
 
 The form asks for two things:
 ◼ Username.
-◼ Password
+◼ Password.
 
-and also takes the input for the same.
+and also takes the input for the same, if any one of the field is not entered the user cannot get access to the website ❌.
 The form is made user interactive thinking of the fact that even those who doest have prior experience with the tech world can easily cope up with the process of filling a login form 😉.
