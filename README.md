@@ -1,0 +1,9 @@
+# Login_form
+The barebone structure of the form is created with basic HTML semantics and then the form was designed with CSS based on the colours of the background image. 
+
+The form asks for two things:
+◼ Username.
+◼ Password
+
+and also takes the input for the same.
+The form is made user interactive thinking of the fact that even those who doest have prior experience with the tech world can easily cope up with the process of filling a login form 😉.
