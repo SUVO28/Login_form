@@ -7,3 +7,5 @@ The form asks for two things:
 
 and also takes the input for the same, if any one of the field is not entered the user cannot get access to the website ❌.
 The form is made user interactive thinking of the fact that even those who doest have prior experience with the tech world can easily cope up with the process of filling a login form 😉.
+
+Click [here](https://suvo28.github.io/Login_form/) to view the form.
